@@ -20,7 +20,7 @@ También tiene un sistema de:
 
 COMO COPILAR Y EJECUTAR EL PROGRAMA:
 
-PASO 1) Clonar el repositorio :
+PASO 1) Clonar el repositorio :dfngdndgfnfnxfnxfxnfxnfnxfhmf
 
 
   
